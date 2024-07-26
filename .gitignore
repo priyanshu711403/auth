@@ -1,0 +1,41 @@
+# Node modules
+node_modules/
+
+# Log files
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Build output
+dist/
+build/
+*.tgz
+
+# Test coverage
+coverage/
+
+# Optional: database files (if using SQLite or similar)
+*.sqlite
+*.sqlite3
+
+# Optional: temporary files
+*.tmp
+*.swp
+*.swo
+
+# Additional files
+*.pid
+*.seed
+*.pid.lock
